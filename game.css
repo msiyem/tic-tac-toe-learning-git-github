@@ -7,6 +7,12 @@ body {
     background-color: #EDAFB8;
     text-align: center;
 }
+.flex-col{
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
 
 .container {
     height: 70vh;
